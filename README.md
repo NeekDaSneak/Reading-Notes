@@ -1,6 +1,6 @@
-# reading_notes
-A collection of my reading notes from Code Fellows CyberOps.
+# Table of Contents
 
+- [Class 01 Reading Notes](Class-01.md)
 Why does this matter
 
 This is how you will revert back to a more stable state before your computer started acting funny with those downloaded programs.
@@ -12,4 +12,3 @@ This is a really helpful tool to use when upgrading or downloading new software 
 In Windows settings you can search for system restore and create it from there and walk thru the steps.
 
 Once it completes you have succesfully created a restore point to be used in case of emergency.
-
