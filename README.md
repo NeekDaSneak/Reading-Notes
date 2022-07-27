@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Class 01 Reading Notes](Class-01.md)
+
 Why does this matter
 
 This is how you will revert back to a more stable state before your computer started acting funny with those downloaded programs.
