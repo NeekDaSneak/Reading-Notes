@@ -1,4 +1,6 @@
-# Reading-Notes
+# reading_notes
+A collection of my reading notes from Code Fellows CyberOps.
+
 Why does this matter
 This is how you will revert back to a more stable state before your computer started acting funny with those downloaded programs.
 
