@@ -1,4 +1,4 @@
-# class 01 reading notes.
+# class 01 reading notes
 
 ## How to do a Windows Backup
 
@@ -13,3 +13,5 @@ This is a really helpful tool to use when upgrading or downloading new software 
 In Windows settings you can search for system restore and create it from there and walk thru the steps.
 
 Once it completes you have succesfully created a restore point to be used in case of emergency.
+
+## Things I want to know more about
