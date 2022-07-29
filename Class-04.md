@@ -1,6 +1,6 @@
 # CompTIA A+ Troubleshooting Methodology
 
-## This is the steps will take for troubleshooting as a entry level IT person and even more afterwards.
+## This is the steps will take for troubleshooting as a entry level IT person and even more afterwards
 
 1. Identify the Problem
    - Gather information
