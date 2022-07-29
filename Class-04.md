@@ -22,3 +22,5 @@
 5. Establish a plan of action, Resolve the Problem, Verify system Funcionality
 
 6. Document findings/lessons learned, actions and outcomes
+
+## Things I want to know more about
