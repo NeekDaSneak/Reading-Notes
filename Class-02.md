@@ -30,4 +30,4 @@ You can install extensions to help you along the way or get pass certain hiccups
 
 These are some markdown cheats
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+<https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
