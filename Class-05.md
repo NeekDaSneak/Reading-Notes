@@ -18,6 +18,8 @@ port 139 is used by smb dialect that communicate over NetBios
 
 Port 445 is used but the newer versions of smb
 
+## Things I want to know more about
+
 ## Here is a cheat sheet I found on the web
 
 <https://serverspace.us/support/help/windows-cmd-commands-cheat-sheet/>
