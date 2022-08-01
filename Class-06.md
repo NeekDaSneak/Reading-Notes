@@ -1,6 +1,6 @@
 # Windows Defender Security Center
 
-Windows sercurity has 5 features built-in.
+*Windows sercurity has 5 features built-in.*
 
 ## 1. Virus & threat protection
 
@@ -20,14 +20,14 @@ Windows sercurity has 5 features built-in.
 
 ## 3. Firewall & Network Protection
 
-Firewall settings and Network troubleshooting information
+- Firewall settings and Network troubleshooting information
 
 ## 4. APP & Browser Control
 
-This enables setting for apps and browsers to kepp informed about online warnings.
+- This enables setting for apps and browsers to kepp informed about online warnings.
 
 ## 5. Family Options
 
-Here are the Parental options if you choose to enbable them
+- Here are the Parental options if you choose to enbable them
 
 ## Things I want to know more about
