@@ -30,4 +30,14 @@
 
 - Here are the Parental options if you choose to enbable them
 
+## Windows Event Viewer
+
+- Shows you in a detailed view different type of event longs the mnost common ones are
+
+  - Application Log
+
+  - Security Log
+
+  - System Log
+
 ## Things I want to know more about
