@@ -1,4 +1,11 @@
-# Windows Command Line Tools
+# **Class 05 Reading Notes**
+## **Windows Command Line Tools**
+
+### *Why is this topic important?*
+
+Shows you some commands you will need to navigate around the windows command line.
+
+## Some Line Tools
 
 - cmder add linux commands to the windows command prompt
 - sfc this checks the system files

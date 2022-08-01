@@ -1,6 +1,10 @@
-# Windows Defender Security Center
+# **Class 06 Reading Notes**
 
-*Windows sercurity has 5 features built-in.*
+## **Windows Defender Security Center**
+
+### **_Why is this topic important?_**
+
+_Windows sercurity has 5 features built-in._
 
 ## 1. Virus & threat protection
 

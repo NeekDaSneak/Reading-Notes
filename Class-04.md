@@ -1,4 +1,10 @@
-# CompTIA A+ Troubleshooting Methodology
+# **Class 04 Reading Notes**
+
+## **CompTIA A+ Troubleshooting Methodology**
+
+### *Why is this topic important?*
+
+These are some keyconcepts you will need to know to get through the comptia exam
 
 ## This is the steps will take for troubleshooting as a entry level IT person and even more afterwards
 

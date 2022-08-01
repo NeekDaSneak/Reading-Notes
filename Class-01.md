@@ -1,8 +1,10 @@
-# class 01 reading notes
+# **Class 01 Reading Notes**
+
+## *Why is this topic important?*
+
+This will be important for the simple fact you dont want to lose your important information, even more you dont want to come to a circumstance were you didnt backup a companies files they can lose everything
 
 ## How to do a Windows Backup
-
-Why does this matter
 
 This is how you will revert back to a more stable state before your computer started acting funny with those downloaded programs.
 

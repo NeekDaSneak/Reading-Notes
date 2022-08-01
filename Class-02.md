@@ -1,4 +1,8 @@
-# Github And Vs code
+# **Class 02 Reading Notes**
+
+## **Github Vs VsCode**
+
+### *Why is this topic important?*
 
 Defintely a lot to learn and a huge curveball thrown into the mix. But github is really nice once you can get the jist and the hang of things.
 

@@ -1,4 +1,8 @@
-# Introduction to Help Desk Support Roles
+# **Class 03 Reading Notes**
+
+## Introduction to Help Desk Support Roles
+
+### *Why is this topic important?*
 
 Not only technical skills are needed in IT. You also have to have communication skills.
 
@@ -10,4 +14,4 @@ You are also represent a company and are usually the first point of contact when
 
 Not only should you build on your technical aspect, you should also work on your soft skills
 
-## Things I want to know more about
+#### Things I want to know more about
