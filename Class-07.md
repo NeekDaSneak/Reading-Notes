@@ -4,6 +4,8 @@
 
 ### **_Why is this topic important?_**
 
+- You dont want to miss out on important updates. If you dont upgrade your system it is suceptiable to hackers. Remote access is an amazing capibility to be able to work not in the office but away from the office.
+
 ## **OS Upgrade**
 
 Some reasons developers put out software updates to fix problems discovered within the software.
