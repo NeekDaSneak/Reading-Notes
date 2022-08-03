@@ -8,3 +8,4 @@
 - [Class 04 Reading Notes](Class-04.md)
 - [Class 05 Reading Notes](Class-05.md)
 - [Class 06 Reading Notes](Class-06.md)
+- [Class 07 Reading Notes](Class-07.md)
