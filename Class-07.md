@@ -8,23 +8,21 @@
 
 ## **OS Upgrade**
 
-Some reasons developers put out software updates to fix problems discovered within the software.
+    Some reasons developers put out software updates to fix problems discovered within the software.
 
-Changing the version of the installed OS to a more current one. Windows in-place upgrades are messier than clean installs more bugs but also more convenient= faster.
+    Changing the version of the installed OS to a more current one. Windows in-place upgrades are messier than clean installs more bugs but also more convenient= faster.
 
-Clean install wipes everthing offf the drive and performs a fresh, first time OS install
+    Clean install wipes everthing offf the drive and performs a fresh, first time OS install
 
-## Remote Access
+## **Remote Access**
 
-To work from home
+### Virtual Desktop Infastructure
 
-Virtual Desktop Infastructure
-
-    - Hosting Desktop environments on a single server
-    - Extremely convenient for the end user
-    - Can be costly
-    - Attaching local physical devices can be a hassle
-    - Example Citrix
+    1. Hosting Desktop environments on a single server
+    2. Extremely convenient for the end user
+    3. Can be costly
+    4. Attaching local physical devices can be a hassle
+    5. Example Citrix
 
 - Access company-hosted resources
 
@@ -34,15 +32,20 @@ Virtual Desktop Infastructure
 
 ### Commercial remote destop products
 
-- Teamviewer, Splashtop, GoToMyPc
+    Teamviewer
 
--Native Protocols
+    Splashtop
 
-    -SSH,RDP
+    GoToMyPc
+
+### Native Protocols
+
+- SSH
+- RDP
 
 What is required to use RDP from outside Network?
 
-    -A Virtual Private Network (VPN) encrytps over the internet allowing secure remote access to a host in a private network
+- A Virtual Private Network (VPN) encrytps over the internet allowing secure remote access to a host in a private network
 
 - Port Forwarding
   - Forwards all port traddic to the LAN PC.
@@ -57,15 +60,15 @@ What is required to use RDP from outside Network?
 
 ## Powershell
 
--Why should we learn about powershell
+Why should we learn about powershell?
 
- -Automate or execute the advanced operation via the terminal in windows
+- Automate or execute the advanced operation via the terminal in windows
 
- -Generally used by sys administrators and engineers
+- Generally used by sys administrators and engineers
 
- -Attackers use PowerShell to navigate through enivroments, knowing how attakers use the tools to help defend against attacks
+- Attackers use PowerShell to navigate through enivroments, knowing how attakers use the tools to help defend against attacks
 
- -Looks good on resume
+- Looks good on resume
 
 ## Things I want to know more about
 
