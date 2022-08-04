@@ -6,7 +6,7 @@
 
 ## **Windows Event Viewer**
 
-- When windows crashes it will generate a Blue Screen of Death (BSoD) which is an error spolash screeen memory addresing and a stop code.
+- When windows crashes it will generate a Blue Screen of Death (BSoD) which is an error splash screen memory addressing and a stop code.
 
 - Why might we use Windows Event Viewer?
 
@@ -33,7 +33,7 @@
 ## **Windows Registry Editor**
 
 - Windows Registry
-  - A local database for storing critical configuratiuon for varius parts of the computer
+  - A local database for storing critical configuratiuon for various parts of the computer
   - Windows references the registry for many aspects of the OS behavior
   - An attractive target for cyber attacks seeking to alter computer behavior
 
