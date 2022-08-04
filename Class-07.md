@@ -43,6 +43,8 @@
 - SSH
 - RDP
 
+- VPN
+
 What is required to use RDP from outside Network?
 
 - A Virtual Private Network (VPN) encrytps over the internet allowing secure remote access to a host in a private network
@@ -53,10 +55,10 @@ What is required to use RDP from outside Network?
 
 - What is the most useful sysadmin?
   - Desktop or Shell
-  - Powershell can use Windows Remoting
-    - Often referred to as WinRM
-    - This is encypted and supports SSL as well
-    - Utilizes port 5985 and for SSL port 5986
+- Powershell can use Windows Remoting
+  - Often referred to as WinRM
+  - This is encypted and supports SSL as well
+  - Utilizes port 5985 and for SSL port 5986
 
 ## Powershell
 
