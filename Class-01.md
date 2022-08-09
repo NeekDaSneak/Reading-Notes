@@ -2,7 +2,7 @@
 
 ## *Why is this topic important?*
 
-This will be important for the simple fact you dont want to lose your important information, even more you dont want to come to a circumstance were you didnt backup a companies files they can lose everything
+This will be important for the simple fact you don't want to lose your important information, even more you don't want to come to a circumstance were you didn't backup a companies files they can lose everything
 
 ## How to do a Windows Backup
 
@@ -14,6 +14,6 @@ This is a really helpful tool to use when upgrading or downloading new software 
 
 In Windows settings you can search for system restore and create it from there and walk thru the steps.
 
-Once it completes you have succesfully created a restore point to be used in case of emergency.
+Once it completes you have successfully created a restore point to be used in case of emergency.
 
 ## Things I want to know more about
